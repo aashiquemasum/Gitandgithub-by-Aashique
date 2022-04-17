@@ -3,3 +3,9 @@
 GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.[4] Headquartered in California, it has been a subsidiary of Microsoft since 2018.[5]
 
 It is commonly used to host open-source projects.[6] As of November 2021, GitHub reports having over 73 million developers[7] and more than 200 million repositories[8] (including at least 28 million public repositories).[9] It is the largest source code host as of November 2021
+
+
+
+Andreessen Horowitz announced a whopping $100 million investment in GitHub this week. You can read commentary and speculation all over the web about what GitHub will do with the money, whether this was a good investment for Andreessen Horowitz and whether taking such a large investment is a good thing for GitHub.
+
+But what the heck is GitHub and why are developers so excited about it? You may have heard that GitHub is a code sharing and publishing service, or that it’s a social networking site for programmers. Both statements are true, but neither explain exactly why GitHub is special.update
